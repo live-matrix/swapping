@@ -11,8 +11,9 @@ voin main()
 
 	//swap logic
 	temp = x;
+	x = y;
 	y = temp;
-	
+
 
 	printf("Values After Swapping\n");
 	printf("\n X: %d \n Y: %d",x,y);
