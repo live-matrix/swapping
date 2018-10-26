@@ -10,6 +10,7 @@ voin main()
 	printf("\n X: %d \n Y: %d",x,y);
 
 	//swap logic
+	
 	temp = x;
 	x = y;
 	y = temp;
